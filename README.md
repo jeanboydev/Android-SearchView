@@ -1,8 +1,13 @@
 # Android-SearchView
+
 动感十足的搜索加载View。
 
 ------
-##效果图
+
+![](https://img.shields.io/badge/platform-Android-brightgreen.svg) ![](https://img.shields.io/badge/language-java-yellow.svg) ![](https://img.shields.io/badge/license-Apache--2.0-blue.svg)
+
+## 效果图
+
 ![效果图][1]
 
 
